@@ -1,7 +1,9 @@
 body {
   background-color: blue;
 }
-
+marquee {
+font-color:red;
+}
 h1.k:nth-child(2) {
   font-color: red;
 }
