@@ -3,7 +3,6 @@ body {
 }
 
 h1.k:nth-child(2) {
-  transform: translateZ(1px);
   font-color: red;
 }
 h1.k:nth-child(3) {
